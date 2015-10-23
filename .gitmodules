@@ -1,0 +1,6 @@
+[submodule "docker-node"]
+	path = docker-node
+	url = git@github.com:nodejs/docker-node.git
+[submodule "ruby"]
+	path = ruby
+	url = git@github.com:docker-library/ruby.git
